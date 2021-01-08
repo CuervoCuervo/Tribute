@@ -3,6 +3,7 @@ h2 {
     font-size: 100px;
     color: blue;
     text-align: center;
+    background-color: orange;
 }
 body {
  background-color: gold;
@@ -27,4 +28,10 @@ div {
 form {
     text-align: center;
     font-size: 17px;
+    background-color: orange;
+}
+#fort {
+    border-color: orange;
+    border-width: 10px;
+    border-style: solid;
 }
